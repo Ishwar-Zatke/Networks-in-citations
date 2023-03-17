@@ -18,7 +18,7 @@ We have also used graphical user interface as implementations for visualizing th
 
 
 References & Journals\
-A Review of Graph Based Algorithms in Social Media Data Analytics
+A Review of Graph Based Algorithms in Social Media Data Analytics\
 Advance data structure book
 
 
